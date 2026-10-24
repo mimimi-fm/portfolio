@@ -3,7 +3,7 @@ Nect.jsとSupaBaseを用いた献立提案アプリです
 # サイトイメージ
 完成後に画像貼る
 # サイトURL
-URL貼る
+https://github.com/mimimi-fm/portfolio
 # 使用技術
 ・フロントエンド：Next.js 15.3
 ・バックエンド：Next.js 15.3
