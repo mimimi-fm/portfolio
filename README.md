@@ -32,3 +32,4 @@ https://komorebi-app-zeta.vercel.app/
 (https://docs.google.com/spreadsheets/d/1FssGL-4n3brHc1mXYtq9k8rZZvxwtd1AyQJ26VcFyKM/edit?usp=sharing)
 # 備考
 Lintツール導入済み
+レシピ考案はGeminiを使っています
