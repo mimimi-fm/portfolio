@@ -27,7 +27,7 @@ https://komorebi-app-zeta.vercel.app/
 【要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート】（https://docs.google.com/spreadsheets/d/1yY-tQQrNxQIPgIEYXIMMWD72GEaOyAaEXkoNX_iSq9U/edit?usp=sharing）
 詳細設計時のワイヤーフレーム、ER図、の画像はDocsディレクトリに格納しています
 ![ワイヤーフレーム](https://github.com/mimimi-fm/portfolio/blob/2fc2fb52cc7cfc1ca9bd2378654699eb526122fe/docs/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0.png?raw=true)
-![ER図](https://github.com/mimimi-fm/portfolio/blob/2fc2fb52cc7cfc1ca9bd2378654699eb526122fe/docs/ER%E5%9B%B3.png?raw=true)
+![ER図](docs/ER図.drawio.png?raw=true)
 # 機能一覧
 ログイン機能
 献立検索
