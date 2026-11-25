@@ -12,6 +12,7 @@ https://komorebi-app-zeta.vercel.app/
 - データベース：Supabase,Gemini
 - デプロイ：Vercel
 - バージョン管理：Git、GitHub
+- デバッグ・検証：Chrome DevTools
 # 設計ドキュメント
 【要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート】（https://docs.google.com/spreadsheets/d/1yY-tQQrNxQIPgIEYXIMMWD72GEaOyAaEXkoNX_iSq9U/edit?usp=sharing）
 詳細設計時のワイヤーフレーム、ER図、の画像はDocsディレクトリに格納しています
