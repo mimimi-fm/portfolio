@@ -38,8 +38,8 @@ https://komorebi-app-zeta.vercel.app/
 お気に入り登録
 オリジナルレシピの新規作成、編集、削除、更新
 # テスト・修正の設計及び実施書
-URL
+(https://docs.google.com/spreadsheets/d/1lXubXm4TD3oygx2GWKicFq22PChrIBYKJmkHA54z_Sk/edit?usp=sharing)
 # アプリの改善案
-URL
+(https://docs.google.com/spreadsheets/d/1FssGL-4n3brHc1mXYtq9k8rZZvxwtd1AyQJ26VcFyKM/edit?usp=sharing)
 # 備考
-
+Lintツール導入済み
